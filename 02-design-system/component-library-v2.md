@@ -1,4 +1,4 @@
-> **Liên kết ngữ cảnh:** [UI/UX Skill](../00-ai-harness/ui-ux-skill.md) | [Design Tokens](./design-tokens.md) | [Screens](./prototype-screens.md) | [Product Backlog](../03-requirements/product-backlog.md) | [Personas](../01-discovery/personas/persona-01-trip-planner.md)
+﻿> **Liên kết ngữ cảnh:** [UI/UX Skill](../00-ai-harness/ui-ux-skill.md) | [Design Tokens](./design-tokens.md) | [Screens](./prototype-screens.md) | [Product Backlog](../03-requirements/product-backlog.md) | [Personas](../01-discovery/personas/persona-01-trip-planner.md)
 
 # Component Library — SmartTrip Web
 
@@ -79,3 +79,4 @@ Hiển thị nguồn và thời điểm cập nhật bên cạnh dữ liệu gi�
 - Dùng semantic headings, landmarks, labels và danh sách có thứ tự cho hoạt động theo ngày.
 - Mọi thao tác có thể dùng bàn phím; focus không bị che và thứ tự tab theo luồng đọc.
 - Kiểm tra ở độ phóng đại 200%, tương phản và chế độ giảm chuyển động.
+

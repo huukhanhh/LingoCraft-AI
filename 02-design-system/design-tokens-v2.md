@@ -1,4 +1,4 @@
-> **Liên kết ngữ cảnh:** [UI/UX Skill](../00-ai-harness/ui-ux-skill.md) | [Personas](../01-discovery/personas/persona-01-trip-planner.md) | [Component Library](./component-library.md) | [Screens](./prototype-screens.md) | [Backlog](../03-requirements/product-backlog.md)
+﻿> **Liên kết ngữ cảnh:** [UI/UX Skill](../00-ai-harness/ui-ux-skill.md) | [Personas](../01-discovery/personas/persona-01-trip-planner.md) | [Component Library](./component-library.md) | [Screens](./prototype-screens.md) | [Backlog](../03-requirements/product-backlog.md)
 
 # Design Tokens — SmartTrip Web
 
@@ -57,3 +57,4 @@ Không dùng màu làm tín hiệu duy nhất. Trạng thái phải kèm nhãn/i
 - Giữ nguyên dữ liệu form khi tạo lịch trình thất bại.
 - Trạng thái loading, empty, error, success luôn có ngữ nghĩa và nội dung văn bản.
 - Nhãn “Ước tính”, “Gợi ý AI” hoặc tên/giờ cập nhật nguồn phải xuất hiện cạnh thông tin liên quan.
+
